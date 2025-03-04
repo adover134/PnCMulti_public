@@ -1,0 +1,7 @@
+demo/**
+prototype/**
+server/node_modules
+client/node_modules
+client/src/assets/**
+설계
+**/LICENSE/**

@@ -1,0 +1,362 @@
+[
+    {
+        "name" : "1블록",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[0, 0]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 1",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "1 블록\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "2블록",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[1, 0], [1, 1]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 2",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "2 블록\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (1)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 0], [2, 1]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-1",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (1)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (2)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 0], [2, 2]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-2",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (2)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (3)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 0], [2, 2]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-3",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (3)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (4)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 1], [2, 2]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-4",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (4)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (5)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 1], [2, 3]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-5",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (5)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "3블록 (6)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[2, 2], [2, 3]],
+        "skill_pieces" : [[], []],
+        "image" : "Basic Card 3-6",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "3 블록 (6)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (1)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 0]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-1",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (1)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (2)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 1]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-2",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (2)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (3)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 2]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-3",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (3)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (4)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 3]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-4",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (4)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (5)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 4]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-5",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (5)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (6)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 5]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-6",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (6)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (7)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 6]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-7",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (7)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "4블록 (8)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[3, 7]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 4-8",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "4 블록 (8)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (1)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 0]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-1",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (1)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (2)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 1]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-2",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (2)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (3)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 2]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-3",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (3)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (4)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 3]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-4",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (4)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (5)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 0]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-5",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (5)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (6)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 5]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-6",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (6)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (7)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 6]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-7",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (7)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (8)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 7]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-8",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (8)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (9)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 8]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-9",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (9)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (10)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 9]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-10",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (10)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (11)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 10]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-11",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (11)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "5블록 (12)",
+        "type" : "UNIT",
+        "faction" : "LEAGUE",
+        "blocks" : [[4, 11]],
+        "skill_pieces" : [[]],
+        "image" : "Basic Card 5-12",
+        "effect" : {},
+        "state" : {}, 
+        "desc" : "5 블록 (12)\n유닛 / 리그\n이 카드는 별도의 효과를 갖지 않는다."
+    },
+    {
+        "name" : "헤이스트",
+        "type" : "SKILL",
+        "faction" : "LEAGUE",
+        "blocks" : [],
+        "skill_pieces" : [],
+        "image" : "Haste",
+        "effect" : {
+            "condition" : {
+            },
+            "cost" : {
+                "player": 0,
+                "target": 0,
+                "subject": 0,
+                "value": -2000
+            },
+            "effect" : {
+                "player": 0,
+                "target": 2,
+                "subject": 0,
+                "value": 2
+            }
+        },
+        "state" : {}, 
+        "desc" : "Haste\n주문 / 리그\n자신의 점수를 2000점 깎고 발동한다. 자신은 메인 덱에서 카드를 2장까지 드로우한다."
+    },
+    {
+        "name" : "허기",
+        "type" : "SKILL",
+        "faction" : "LEAGUE",
+        "blocks" : [],
+        "skill_pieces" : [],
+        "image" : "Hunger",
+        "effect" : {
+            "condition" : {
+            },
+            "cost" : {
+                "player": 0,
+                "target": 1,
+                "subject": 1,
+                "value": [1, "n"]
+            },
+            "effect" : {
+                "player": 0,
+                "target": 0,
+                "subject": 0,
+                "value": "cost.length*400"
+            }
+        },
+        "state" : {}, 
+        "desc" : "허기\n주문 / 리그\n자신의 핸드에서 임의의 수만큼 카드를 트래쉬하고 발동한다. 자신은 트래쉬한 카드 장 수 X 400점을 얻는다."
+    }
+]
